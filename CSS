@@ -1,0 +1,31 @@
+body {
+    background-image:url(iannn.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.NAME {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    
+}
+
+button {
+    font-size: 50px;
+
+}
+
+img {
+    position:absolute; 
+    top: 30px;
+    right: 100px; 
+    width: 150px;
+
+}
+
+p {
+    font-size: 20px;
+}
